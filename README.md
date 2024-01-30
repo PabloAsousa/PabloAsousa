@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PabloAsousa/PabloAsousa/>
+![Contributions](https://img.shields.io/github/last-commit/PabloAsousa/PabloAsousa?style=flat-square)](https://github.com/seu_nome_de_usuário/seu_repositório)
 
 ###
 

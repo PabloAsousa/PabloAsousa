@@ -38,7 +38,6 @@
 
 ###
 
-![![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sPabloAsousa&theme=dark)](https://github.com/PabloAsousa)
 
 
 ###

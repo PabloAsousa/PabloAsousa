@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! I'm in the 5th semester of my Bachelor's degree in Software Engineering, with a focus on Cybersecurity and Backend Development using Spring Boot. I'm from Brazil, and I speak English at a B2 level.</p>
+<p align="left">Hello! I'm in the 5th semester of my Bachelor's degree in Software Engineering, with a focus on Backend Development Java/Kotlin. I'm from Brazil, and I speak English at a B2 level.</p>
 
 ###
 
